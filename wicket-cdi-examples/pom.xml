@@ -3,7 +3,7 @@
 	<parent>
 		<groupId>nl.topicus</groupId>
 		<artifactId>wicket-cdi-parent</artifactId>
-		<version>1.3-SNAPSHOT</version>
+		<version>1.6</version>
 	</parent>
 	<artifactId>wicket-cdi-examples</artifactId>
 	<packaging>war</packaging>

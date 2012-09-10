@@ -20,7 +20,7 @@
 	<parent>
 		<groupId>nl.topicus</groupId>
 		<artifactId>wicket-cdi-parent</artifactId>
-		<version>6.0.0</version>
+		<version>6.0.1-SNAPSHOT</version>
 	</parent>
 	<artifactId>wicket-cdi</artifactId>
 	<packaging>jar</packaging>

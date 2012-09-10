@@ -3,7 +3,7 @@
 	<groupId>nl.topicus</groupId>
 	<artifactId>wicket-cdi-parent</artifactId>
 	<packaging>pom</packaging>
-	<version>6.0-SNAPSHOT</version>
+	<version>6.0.0</version>
 	<name>Wicket-CDI Parent</name>
 	<description>Integrates Wicket with CDI containers</description>
 	<licenses>
